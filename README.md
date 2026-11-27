@@ -1,12 +1,13 @@
-![Cuaderno de campo · Seguridad web](https://img.shields.io/badge/CUADERNO_DE_CAMPO-SEGURIDAD_WEB-d9a441?style=for-the-badge&labelColor=242321)
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;section=header&amp;height=200&amp;color=0:10243A,50:176B70,100:16324F&amp;text=Santino&amp;fontColor=FFFFFF&amp;fontSize=64&amp;fontAlign=24&amp;fontAlignY=56" width="100%" alt="Santino" />
 
-# Santino
+# Ciberseguridad
 
-De un inicio de sesión, la parte que más me interesa viene después.
+Soy Santino, estudiante avanzado de **Ingeniería en Sistemas de Información**. Hoy me dedico de tiempo completo a mi formación académica y estoy dando los primeros pasos para orientar mi carrera hacia la **ciberseguridad**.
 
-Ya entré con mi cuenta. Hago clic en un archivo y se abre. Desde mi lado de la pantalla fue un solo clic. Del otro lado, el servidor tuvo que comprobar algo más.
+### Cómo encaro los desafíos
 
-> **Nota al margen**  
-> Saber quién soy todavía deja una pregunta abierta. ¿Tengo permiso para ver *este* archivo?
+Cuando algo no funciona como esperaba, primero busco entender por qué. Investigo, comparo alternativas y pruebo lo que aprendo hasta encontrar una solución. Me considero disciplinado y perseverante. Esa constancia me ayuda a sostener mis objetivos, especialmente cuando un problema me exige aprender algo desde cero.
 
-Eso es lo que me gusta de la ciberseguridad. Podría pasar por alto un botón que dice **Abrir**, pero me da curiosidad entender qué hace que ese clic funcione para una cuenta y se rechace para otra.
+### Hacia dónde voy
+
+Me apasiona la tecnología y quiero especializarme en ciberseguridad. Mientras avanzo en la carrera, estoy profundizando en seguridad informática a partir de lo que ya estudio sobre sistemas. Mi objetivo es construir una base técnica sólida y llevarla a la práctica, paso a paso.
