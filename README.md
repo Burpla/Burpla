@@ -12,6 +12,7 @@ Soy **Santino**, estudiante avanzado de **Ingeniería en Sistemas de Informació
     <img src="https://img.shields.io/badge/Instagram-102B36?style=for-the-badge&amp;logo=instagram&amp;logoColor=8AE7DF" alt="Instagram de Santino" />
   </a>
 </p>
+
 ### Cómo encaro los desafíos
 
 Cuando algo no funciona como esperaba, quiero entender por qué. Investigo, comparo alternativas y pongo a prueba lo que aprendo. Soy disciplinado y perseverante, sobre todo cuando resolver un problema me exige aprender algo desde cero.
