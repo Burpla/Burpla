@@ -30,8 +30,28 @@
 
   <!-- Círculo central con dos arcos de luz -->
   <circle cx="500" cy="90" r="53" fill="url(#centro)" stroke="#31878B"/>
-  <circle cx="500" cy="90" r="61" fill="none" stroke="#64D8D3"
-          stroke-width="2" stroke-dasharray="65 127" transform="rotate(-55 500 90)"/>
+  <g class="orbita">
+  <circle cx="500" cy="90" r="61"
+          fill="none" stroke="#64D8D3" stroke-width="2"
+          stroke-dasharray="65 127"
+          transform="rotate(-55 500 90)" />
+</g>
+
+<style>
+  .orbita {
+    transform-origin: 500px 90px;
+    animation: girar 16s linear infinite;
+  }
+
+  @keyframes girar {
+    from { transform: rotate(0deg); }
+    to   { transform: rotate(360deg); }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .orbita { animation: none; }
+  }
+</style>
 
   <text x="202" y="110" text-anchor="middle"
         font-family="Segoe UI, Arial, sans-serif" font-size="60"
