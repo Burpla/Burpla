@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;section=header&amp;height=200&amp;color=0:10243A,50:176B70,100:16324F&amp;text=Santino&amp;fontColor=FFFFFF&amp;fontSize=64&amp;fontAlign=24&amp;fontAlignY=56&amp;desc=%E2%9F%A8%20Burpla%20%E2%9F%A9&amp;descSize=30&amp;descAlign=79&amp;descAlignY=54" width="100%" alt="Santino, alias Burpla" />
+<img src="./banner.svg" width="100%" alt="Santino, alias Burpla" />
 
 # Ciberseguridad
 
