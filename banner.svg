@@ -37,7 +37,7 @@
          C 447 61 471 37 500 37 Z">
   <animate
     attributeName="d"
-    dur="8s"
+    dur="4s"
     repeatCount="indefinite"
     calcMode="spline"
     keyTimes="0;0.33;0.66;1"
