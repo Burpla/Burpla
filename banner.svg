@@ -29,7 +29,26 @@
   </g>
 
   <!-- Círculo central con dos arcos de luz -->
-  <circle cx="500" cy="90" r="53" fill="url(#centro)" stroke="#31878B"/>
+  <path fill="url(#centro)" stroke="#31878B" stroke-width="1"
+      d="M 500 37
+         C 529 37 553 61 553 90
+         C 553 119 529 143 500 143
+         C 471 143 447 119 447 90
+         C 447 61 471 37 500 37 Z">
+  <animate
+    attributeName="d"
+    dur="8s"
+    repeatCount="indefinite"
+    calcMode="spline"
+    keyTimes="0;0.33;0.66;1"
+    keySplines=".45 0 .55 1; .45 0 .55 1; .45 0 .55 1"
+    values="
+      M 500 37 C 529 37 553 61 553 90 C 553 119 529 143 500 143 C 471 143 447 119 447 90 C 447 61 471 37 500 37 Z;
+      M 510 36 C 538 36 548 64 551 86 C 555 114 529 135 494 143 C 468 149 447 125 447 99 C 447 73 482 36 510 36 Z;
+      M 490 39 C 516 34 547 48 555 78 C 562 104 540 137 512 143 C 485 149 459 133 449 106 C 438 77 463 44 490 39 Z;
+      M 500 37 C 529 37 553 61 553 90 C 553 119 529 143 500 143 C 471 143 447 119 447 90 C 447 61 471 37 500 37 Z"
+  />
+</path>
   <g class="orbita">
   <circle cx="500" cy="90" r="61"
           fill="none" stroke="#64D8D3" stroke-width="2"
